@@ -22,7 +22,7 @@ We provide the [[EvCSLR data]]() that can be downloaded.
 
 # Pretrained model
 We provide the following pre-trained model trained on the EvCSLR dataset:
-[checkpoint]()
+[checkpoint](https://pan.baidu.com/s/1C4wT7Rvz3Xzg6ro7wf5A7g?pwd=3x69)
 
 We have released a stable model weight obtained through post-training from scratch. The inference results are slightly better than the metrics reported in the paper, as detailed in the table below.
 
