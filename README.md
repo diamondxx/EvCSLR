@@ -35,7 +35,7 @@ We have released a stable model weight obtained through post-training from scrat
 # Test
 To test the performance of our framework, you can use the provided code.
 
-Once you have configured the specific paths, you can run the following code. The pre-trained models should be downloaded and placed in the root dir, while the EvCSLR dataset should be stored in the `data` directory. 
+Once you have configured the specific paths, you can run the following code. The pre-trained models should be downloaded and placed in the root dir, while the EvCSLR dataset, `EvCSLR_release\EvCSLR`, should be stored in the `data` directory. 
 
 The dev and test results with their metrics will be saved in the `work_dir` directory.
 
