@@ -1,7 +1,7 @@
 # EvCSLR
 EvCSLR: Event-guided Continuous Sign Language  Recognition and Benchmark (TMM2024)
 
-<img src="./img/Figure1.jpg" width="60%">
+<img src="./imgs/Fig5.png" width="60%">
 
 
 This repo is based on [VAC (ICCV 2021)](https://github.com/VIPL-SLP/VAC_CSLR) and [CorrNet (CVPR 2023)](https://github.com/hulianyuyy/CorrNet/). Many thanks for their great work!
@@ -15,11 +15,14 @@ This repo is based on [VAC (ICCV 2021)](https://github.com/VIPL-SLP/VAC_CSLR) an
   `ln -s PATH_TO_KALDI/tools/sctk-2.4.10/bin/sclite ./software/sclite`
 
 # EvCSLR dataset
-We provide the [[EvCSLR link]]() that can be downloaded.
+We provide the [[EvCSLR data]]() that can be downloaded.
+
+<img src="./imgs/Fig1.png" width="60%">
+<img src="./imgs/Fig2.png" width="60%">
 
 # Pretrained model
 We provide the following pre-trained model trained on the EvCSLR dataset:
- [checkpoint.pt]()
+ [checkpoint]()
 
 # Test
 To test the performance of our framework, you can use the provided code.
