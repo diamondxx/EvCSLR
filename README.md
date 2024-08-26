@@ -15,7 +15,7 @@ This repo is based on [VAC (ICCV 2021)](https://github.com/VIPL-SLP/VAC_CSLR) an
   `ln -s PATH_TO_KALDI/tools/sctk-2.4.10/bin/sclite ./software/sclite`
 
 # EvCSLR dataset
-We provide the [[EvCSLR data]]() that can be downloaded.
+We provide the [[EvCSLR data]](https://pan.baidu.com/s/1JM_IwtiB7Obl7G18o3RnMQ?pwd=j6vb) that can be downloaded.
 
 <img src="./imgs/Fig1.png" width="60%">
 <img src="./imgs/Fig2.png" width="60%">
