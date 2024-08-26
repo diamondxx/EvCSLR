@@ -1,5 +1,5 @@
 # EvCSLR
-EvCSLR: Event-guided Continuous Sign Language  Recognition and Benchmark (TMM2024)
+EvCSLR: Event-guided Continuous Sign Language  Recognition and Benchmark ([TMM2024]())
 
 <img src="./imgs/Fig5.png" width="60%">
 
