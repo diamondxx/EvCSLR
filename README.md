@@ -22,7 +22,15 @@ We provide the [[EvCSLR data]]() that can be downloaded.
 
 # Pretrained model
 We provide the following pre-trained model trained on the EvCSLR dataset:
- [checkpoint]()
+[checkpoint]()
+
+We have released a stable model weight obtained through post-training from scratch. The inference results are slightly better than the metrics reported in the paper, as detailed in the table below.
+
+|    EvCSLR dataset       | WER on Dev | WER on Test |                    
+|:----------------------: | :--------: | :---------: | 
+| Ours |    18.4    |    15.8     | 
+| Update        |  18.2  |  15.2 |  
+
 
 # Test
 To test the performance of our framework, you can use the provided code.
