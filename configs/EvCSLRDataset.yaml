@@ -1,0 +1,5 @@
+# dataset_root: ./preprocess/enen 
+dataset_root: None 
+dict_path: ./preprocess/EvCSLRDataset/gloss_dict.npy
+evaluation_dir: ./evaluation/slr_eval
+evaluation_prefix: EvCSLRDataset-groundtruth

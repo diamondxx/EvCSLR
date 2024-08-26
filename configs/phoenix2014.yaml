@@ -1,0 +1,4 @@
+dataset_root: /home/zyj/wangyh/dataset/EVSLRDataset
+dict_path: ./preprocess/phoenix2014/gloss_dict.npy
+evaluation_dir: ./evaluation/slr_eval
+evaluation_prefix: phoenix2014-groundtruth
